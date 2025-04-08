@@ -1,0 +1,4 @@
+/*
+Data Control Language
+Used to control access to the database.
+*/
